@@ -1,4 +1,3 @@
-![profile](./resume/resume.PNG)
 ## 소개
 - 이름: 손민성
 - 취미: 웹크롤링,NLP,엑셀프로그래밍(데이터 수집후 정리된 csv 형태로 가공 작업)
@@ -25,6 +24,7 @@
 
 ## 보유중인 자격증
 - 정보처리 기사(실기 준비중)
+- 정보처리 기능사
 - GTQ
 - ITQ
 
@@ -81,7 +81,7 @@
 ### Android
 - Unity를 이용한 간단한 2D,3D게임 프로젝트를 진행하였습니다.
 
-<img src='./resume/1.jpg' width="300" />
+<img src='./img/1.jpg' width="300" />
 
 
 ### **자바 학습 어플리케이션 프로그램 제작**
@@ -103,7 +103,7 @@
 <br>
 <br>
 
-<img src='./resume/ais.PNG' width="300" />
+<img src='./img/ais.PNG' width="300" />
 
 ### 하이브리드 앱
 - ionic framework를 이용한 AIS 항해선박 항적 예측 애플리케이션
@@ -121,7 +121,7 @@ etc.웹 대시보드를 모바일용 으로 기능및 해상도 조절 표출<br
 <br>
 <br>
 
-<img src='./resume/캡처.PNG' width="300" />
+<img src='./img/캡처.PNG' width="300" />
 
 ### 유니티 2D 퍼즐 게임 제작
 - IOS,Android 빌드
@@ -140,9 +140,9 @@ etc.웹 대시보드를 모바일용 으로 기능및 해상도 조절 표출<br
 
 
 <br><br>
-<img src='./cubecube.PNG' width="300" />
-<img src='./cubecube2.PNG' width="300" />
-<img src='./cubecube3.PNG' width="300" />
+<img src='./img/cubecube.PNG' width="300" />
+<img src='./img/cubecube2.PNG' width="300" />
+<img src='./img/cubecube3.PNG' width="300" />
 ### 유니티 2D 네모네모 로직 게임 제작
 - IOS,Android 빌드
 - 주요기능
@@ -165,7 +165,7 @@ etc.웹 대시보드를 모바일용 으로 기능및 해상도 조절 표출<br
 ---
 ## AI 프로젝트 <br>
 
-<img src='./resume/project2.JPG' width="300" />
+<img src='./img/project2.JPG' width="300" />
 
 ### **이미지 데이터를 String으로 바꾸어 분류문제 해결**
 - python 3.6
@@ -175,7 +175,7 @@ etc.웹 대시보드를 모바일용 으로 기능및 해상도 조절 표출<br
 <br>
 <br>
 
-<img src='./resume/project3.JPG' width="300" />
+<img src='./img/project3.JPG' width="300" />
 
 ### **단순한 분류문제를 사용한 Q&A프로그램 제작**
 - Python 3.7
@@ -198,7 +198,7 @@ etc.웹 대시보드를 모바일용 으로 기능및 해상도 조절 표출<br
 
 
 
-<img src='./resume/crime.PNG' width="300" />
+<img src='./img/crime.PNG' width="300" />
 
 ### **realtime_crime_detection**
 자세한 사항으로 [이동](https://github.com/iconms12/Image_Captioning)
@@ -233,7 +233,7 @@ etc.웹 대시보드를 모바일용 으로 기능및 해상도 조절 표출<br
 ----
 ## 그외
 
-<img src='./map.PNG' width="500"/>
+<img src='./img/map.PNG' width="500"/>
 
 ### **선박안전 웹사이트**
 
@@ -249,7 +249,7 @@ etc.웹 대시보드를 모바일용 으로 기능및 해상도 조절 표출<br
 <br>
 
 
-<img src='./resume/project1.jpg' width="300" />
+<img src='./img/project1.jpg' width="300" />
 
 ### **C++를 사용한 도난경보 애플리케이션**
 - C++
@@ -284,20 +284,20 @@ etc.웹 대시보드를 모바일용 으로 기능및 해상도 조절 표출<br
 <br> Python
 
 
-<img src='./resume/main.JPG' width="170">       <img src='./resume/action.JPG' width="500" /> 
+<img src='./img/main.JPG' width="170">       <img src='./img/action.JPG' width="500" /> 
 ### php와 javascript를 이용한 실시간 서버정보확인 사이트 
 - PHP<br>
 - JavaScript
 
 ---
-
-<br> 그외 할줄아는것
-애플 앱스토어 앱등록
-구글 플레이 콘솔 앱등록
-인앱결제 시스템
-영수증 검증
-구글 애드몹 광고
-외부 플러그인 사용법 숙지 등
+<br><br>
+## 그외 할줄아는것 <br>
+애플 앱스토어 앱등록 <br>
+구글 플레이 콘솔 앱등록 <br>
+인앱결제 시스템 <br>
+영수증 검증<br>
+구글 애드몹 광고 <br>
+외부 플러그인 사용법 숙지 등 
 
 
 
