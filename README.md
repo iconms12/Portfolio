@@ -79,10 +79,11 @@
 ## 모바일 프로젝트
 
 ### Android
-- Unity를 이용한 간단한 2D,3D게임 프로젝트를 진행하였습니다.
+- Unity,ionic을 이용하여 간단한 2D,3D게임 프로젝트를 진행하였습니다.
 
+<center>
 <img src='./img/1.jpg' width="300" />
-
+</center>
 
 ### **자바 학습 어플리케이션 프로그램 제작**
 - Android studio
@@ -103,7 +104,9 @@
 <br>
 <br>
 
+<center>
 <img src='./img/ais.PNG' width="300" />
+</center>
 
 ### 하이브리드 앱
 - ionic framework를 이용한 AIS 항해선박 항적 예측 애플리케이션
@@ -121,7 +124,9 @@ etc.웹 대시보드를 모바일용 으로 기능및 해상도 조절 표출<br
 <br>
 <br>
 
-<img src='./img/캡처.PNG' width="300" />
+<center>
+<img src='./img/캡처.PNG' width="400" />
+</center>
 
 ### 유니티 2D 퍼즐 게임 제작
 - IOS,Android 빌드
@@ -134,16 +139,19 @@ etc.웹 대시보드를 모바일용 으로 기능및 해상도 조절 표출<br
 <br> 5.인앱결제와 광고구현
 <br> 6.애플및 구글 동시 출시
 <br> 그외 게임내 기능 구현
+
 <br>
 <br>
 <br>
 
 
 <br><br>
-<img src='./img/cubecube.PNG' width="300" />
-<img src='./img/cubecube2.PNG' width="300" />
-<img src='./img/cubecube3.PNG' width="300" />
-### 유니티 2D 네모네모 로직 게임 제작
+<img src='./img/cubecube.PNG' width="250" />
+<img src='./img/cubecube2.PNG' width="250" />
+<img src='./img/cubecube3.PNG' width="250" />
+
+<br>
+## 유니티 2D 네모네모 로직 게임 제작
 - IOS,Android 빌드
 - 주요기능
 <br>
@@ -165,9 +173,10 @@ etc.웹 대시보드를 모바일용 으로 기능및 해상도 조절 표출<br
 ---
 ## AI 프로젝트 <br>
 
-<img src='./img/project2.JPG' width="300" />
+<img src='./img/project2.JPG' width="750" />
+<br>
 
-### **이미지 데이터를 String으로 바꾸어 분류문제 해결**
+## **이미지 데이터를 String으로 바꾸어 분류문제 해결**
 - python 3.6
 - konlpy
 - openCV
@@ -175,7 +184,7 @@ etc.웹 대시보드를 모바일용 으로 기능및 해상도 조절 표출<br
 <br>
 <br>
 
-<img src='./img/project3.JPG' width="300" />
+<img src='./img/project3.JPG' width="750" />
 
 ### **단순한 분류문제를 사용한 Q&A프로그램 제작**
 - Python 3.7
@@ -197,8 +206,9 @@ etc.웹 대시보드를 모바일용 으로 기능및 해상도 조절 표출<br
 <br>
 
 
-
-<img src='./img/crime.PNG' width="300" />
+<center>
+<img src='./img/crime.PNG' width="600" />
+</center>
 
 ### **realtime_crime_detection**
 자세한 사항으로 [이동](https://github.com/iconms12/Image_Captioning)
@@ -233,7 +243,7 @@ etc.웹 대시보드를 모바일용 으로 기능및 해상도 조절 표출<br
 ----
 ## 그외
 
-<img src='./img/map.PNG' width="500"/>
+<img src='./img/map.PNG' width="750"/>
 
 ### **선박안전 웹사이트**
 
@@ -249,7 +259,7 @@ etc.웹 대시보드를 모바일용 으로 기능및 해상도 조절 표출<br
 <br>
 
 
-<img src='./img/project1.jpg' width="300" />
+<img src='./img/project1.jpg' width="600" />
 
 ### **C++를 사용한 도난경보 애플리케이션**
 - C++
