@@ -286,12 +286,15 @@ etc.웹 대시보드를 모바일용 으로 기능및 해상도 조절 표출<br
 <br> 8.티스토리
 <br> 
 <br> 
+
 - 사용한 모듈
 <br> 1.selenium
 <br> 2.request
 <br> 3.beautyful soap
 <br> 4.pandas
 <br> 5.공식 api
+<br> 
+<br> 
 
 - 사용된 언어 
 <br> Python
