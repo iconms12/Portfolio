@@ -81,9 +81,11 @@
 ### Android
 - Unity,ionic을 이용하여 간단한 2D,3D게임 프로젝트를 진행하였습니다.
 
-<center>
+<div align="center">
 <img src='./img/1.jpg' width="300" />
-</center>
+</div>
+
+<br>
 
 ### **자바 학습 어플리케이션 프로그램 제작**
 - Android studio
@@ -104,9 +106,9 @@
 <br>
 <br>
 
-<center>
+<div align="center">
 <img src='./img/ais.PNG' width="300" />
-</center>
+</div>
 
 ### 하이브리드 앱
 - ionic framework를 이용한 AIS 항해선박 항적 예측 애플리케이션
@@ -124,9 +126,9 @@ etc.웹 대시보드를 모바일용 으로 기능및 해상도 조절 표출<br
 <br>
 <br>
 
-<center>
+<div align="center">
 <img src='./img/캡처.PNG' width="400" />
-</center>
+</div>
 
 ### 유니티 2D 퍼즐 게임 제작
 - IOS,Android 빌드
@@ -206,9 +208,9 @@ etc.웹 대시보드를 모바일용 으로 기능및 해상도 조절 표출<br
 <br>
 
 
-<center>
+<div align="center">
 <img src='./img/crime.PNG' width="600" />
-</center>
+</div>
 
 ### **realtime_crime_detection**
 자세한 사항으로 [이동](https://github.com/iconms12/Image_Captioning)
@@ -258,8 +260,9 @@ etc.웹 대시보드를 모바일용 으로 기능및 해상도 조절 표출<br
 <br>
 <br>
 
-
-<img src='./img/project1.jpg' width="600" />
+<div align="center">
+<img  src='./img/project1.jpg' width="600" />
+</div>
 
 ### **C++를 사용한 도난경보 애플리케이션**
 - C++
@@ -292,15 +295,11 @@ etc.웹 대시보드를 모바일용 으로 기능및 해상도 조절 표출<br
 
 - 사용된 언어 
 <br> Python
-
-
-<img src='./img/main.JPG' width="170">       <img src='./img/action.JPG' width="500" /> 
-### php와 javascript를 이용한 실시간 서버정보확인 사이트 
-- PHP<br>
-- JavaScript
+<br>
+<br>
 
 ---
-<br><br>
+<br>
 ## 그외 할줄아는것 <br>
 애플 앱스토어 앱등록 <br>
 구글 플레이 콘솔 앱등록 <br>
