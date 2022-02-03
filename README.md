@@ -249,13 +249,13 @@ etc.웹 대시보드를 모바일용 으로 기능및 해상도 조절 표출<br
 
 ### **선박안전 웹사이트**
 
-<br> - Apahe
-<br> - django
-<br> - html
-<br> - Mysql
-<br> - mariaDB
-<br> - Python
-<br> - javascript
+- Apahe 
+- django (rest api 서버)
+- html
+- Mysql
+- mariaDB
+- Python
+- javascript
 <br>
 <br>
 <br>
