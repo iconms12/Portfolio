@@ -209,8 +209,10 @@
 <br>
 
 ### 유니티 2D 네모네모 로직 게임 제작 (2021-09~2021-12)
-<img src='./img/cubecube.PNG' width="250" />
-<img src='./img/cubecube2.PNG' width="250" />
+<div>
+<img src='./img/cubecube.PNG' width="350" />
+<img src='./img/cubecube2.PNG' width="350" />
+  </div>
 <br>
 
  - Unity
