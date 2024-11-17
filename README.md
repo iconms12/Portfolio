@@ -23,7 +23,8 @@
 - Node.js
 - Django
 - Flask
-
+-  .NET Core
+  
 ### APIs
 - Open AI API
 - Kakao MAP API
@@ -229,6 +230,7 @@
 
 ## 2022 ~ 2024 (재직중)
 ### 대량 발송 솔루션 개발및 유지보수
+- .NET Core
 - ASP.NET CORE 6.0 MVC
 - MYSQL
 - MSSQL
@@ -315,7 +317,8 @@
 - Python
 - .NET Framewok
 - Ubuntu
-- ASP.NET CORE 
+- ASP.NET CORE
+- .NET Core
 - IIS
 - Window Server
 
